@@ -1,0 +1,11 @@
+# basic options hash is a comment  
+title: New-personal-blog
+author: Smart Guy
+email: sheng10086@gmail.com
+description: A lovely wonderful site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
