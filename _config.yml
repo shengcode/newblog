@@ -1,11 +1,11 @@
 # basic options hash is a comment  
 title: New-personal-blog
-author: Smart Guy
-email: sheng10086@gmail.com
+author: Shengchun Sharon Liu
+email: zengyiyang3@gmail.com
 description: A lovely wonderful site
 twitter_username: jekyllrb
-github_username:  jekyll 
+github_username:  shengcode
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-merlot
+theme: minima
